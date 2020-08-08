@@ -18,7 +18,7 @@ This code was developed to conduct numerical simulations related to the robust o
 - Grzegorz Litak 
 - Szymon Molski
 
-## Citing RandBar
+## Citing ELEVEN
 
 We kindly ask users to cite the following reference in any publications reporting work done with **ELEVEN**:
 - *P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski, Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system, Meccanica, v. 54, pp. 1057-1069, 2019* https://doi.org/10.1007/s11012-019-00992-7
