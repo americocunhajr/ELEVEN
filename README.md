@@ -39,3 +39,8 @@ We kindly ask users to cite the following reference in any publications reportin
 
 **ELEVEN** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
+## Funding
+
+<img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+
+
