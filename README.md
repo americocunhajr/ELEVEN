@@ -5,7 +5,7 @@
 ## Software History
 
 This code was developed to conduct numerical simulations related to the robust optimization and uncertainty quantification of an elevator brake system. The underlying results are reported in the following paper:
-- *P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski, Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system, Meccanica, v. 54, pp. 1057-1069, 2019* https://doi.org/10.1007/s11012-019-00992-7
+- *P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski, Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system, Meccanica, v. 54, pp. 1057-1069, 2019 https://doi.org/10.1007/s11012-019-00992-7*
 
 ## Documentation
 
@@ -14,14 +14,14 @@ This code was developed to conduct numerical simulations related to the robust o
 ## Authors
 - Piotr Wolszczak
 - Pawel Lonkwic
-- Americo Cunha
+- Americo Cunha Jr
 - Grzegorz Litak 
 - Szymon Molski
 
 ## Citing ELEVEN
 
 We kindly ask users to cite the following reference in any publications reporting work done with **ELEVEN**:
-- *P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski, Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system, Meccanica, v. 54, pp. 1057-1069, 2019* https://doi.org/10.1007/s11012-019-00992-7
+- *P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski, Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system, Meccanica, v. 54, pp. 1057-1069, 2019 https://doi.org/10.1007/s11012-019-00992-7*
 
 ```
 @article{Wolszczak2019p1057,
