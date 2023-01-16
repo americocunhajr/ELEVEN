@@ -43,7 +43,7 @@ We kindly ask users to cite the following reference in any publications reportin
 
 ## Institutional support
 
-<img src="logo/logo_pollub_color.png" width="07%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_pprime_color.jpeg" width="15%">
+<img src="logo/logo_pollub_color.png" width="11%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_agh_color.png" width="06%">
 
 ## Funding
 
