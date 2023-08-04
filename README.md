@@ -1,6 +1,6 @@
 <img src="logo/ELEVEN.png" width="40%">
 
-**ELEVEN - Elevator Brake Optimization and UQ** is a Matlab code for robust optimization and uncertainty quantification of an elevator brake system. The implementation follows an educational style, to make its use very intuitive.
+**ELEVEN: Elevator Brake Optimization and UQ** is a Matlab code for robust optimization and uncertainty quantification of an elevator brake system. The implementation follows an educational style, to make its use very intuitive.
 
 ## Software History
 
