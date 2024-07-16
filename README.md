@@ -33,9 +33,11 @@ To install and get started with **ELEVEN**, follow these steps:
 2. Navigate to the code directory:
    ```bash
    cd ELEVEN/ELEVEN-1.0
+   ```
 3. For robust optimization, execute:
    ```bash
    main_elevator_braking_opt
+   ```
 4. For uncertainty quantification, execute:
    ```bash
    main_elevator_braking_mc
