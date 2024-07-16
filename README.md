@@ -1,15 +1,48 @@
 <img src="logo/ELEVEN.png" width="40%">
 
-**ELEVEN: Elevator Brake Optimization and UQ** is a Matlab code for robust optimization and uncertainty quantification of an elevator brake system. The implementation follows an educational style, to make its use very intuitive.
+# ELEVEN: Elevator Brake Optimization and UQ
 
-## Software History
+**ELEVEN** is a robust Matlab tool designed for the optimization and uncertainty quantification (UQ) of an elevator brake system. Developed with an educational approach, ELEVEN is intuitive and user-friendly, making it accessible for both researchers and engineers in the field of mechanical engineering.
 
-This code was developed to conduct numerical simulations related to the robust optimization and uncertainty quantification of an elevator brake system. The underlying results are reported in the following paper:
-- *P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski, Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system, Meccanica, v. 54, pp. 1057-1069, 2019 https://doi.org/10.1007/s11012-019-00992-7*
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Authors](#authors)
+- [Citing ELEVEN](#citing-eleven)
+- [License](#license)
+- [Institutional Support](#institutional-support)
+- [Funding](#funding)
+
+## Overview
+**ELEVEN** was developed to conduct numerical simulations related to the robust optimization and uncertainty quantification of an elevator brake system. The results have been published in the following peer-reviewed journal:
+- **P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski**, *Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system*, Meccanica, 54, pp. 1057-1069, 2019. [DOI](https://doi.org/10.1007/s11012-019-00992-7)
+
+## Features
+- Robust optimization for elevator brake systems
+- Uncertainty quantification for elevator brake systems
+- Intuitive Matlab implementation
+- Educational style code for easy understanding
+
+## Usage
+To install and get started with **ELEVEN**, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ELEVEN.git
+2. Navigate to the code directory:
+   ```bash
+   cd ELEVEN/ELEVEN-1.0
+3. For robust optimization, execute:
+   ```bash
+   main_elevator_braking_opt
+4. For uncertainty quantification, execute:
+   ```bash
+   main_elevator_braking_mc
+   ```
 
 ## Documentation
-
-**ELEVEN** routines are commented in order to explain their functionality to the final user. Each routine has a short description about its purpose, and a list of inputs and/or outputs.
+The routines in **ELEVEN** are well-commented to explain their functionality. Each routine includes a description of its purpose, as well as inputs and outputs. 
 
 ## Authors
 - Piotr Wolszczak
@@ -20,7 +53,7 @@ This code was developed to conduct numerical simulations related to the robust o
 
 ## Citing ELEVEN
 
-We kindly ask users to cite the following reference in any publications reporting work done with **ELEVEN**:
+If you use **ELEVEN** in your research, please cite the following publication:
 - *P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski, Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system, Meccanica, v. 54, pp. 1057-1069, 2019 https://doi.org/10.1007/s11012-019-00992-7*
 
 ```
