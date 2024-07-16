@@ -30,6 +30,7 @@ To install and get started with **ELEVEN**, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ELEVEN.git
+   ```
 2. Navigate to the code directory:
    ```bash
    cd ELEVEN/ELEVEN-1.0
