@@ -15,7 +15,7 @@
 
 ### Overview
 **ELEVEN** was developed to conduct numerical simulations related to the robust optimization and uncertainty quantification of an elevator brake system. The results have been published in the following peer-reviewed journal:
-- **P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski**, *Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system*, Meccanica, 54, pp. 1057-1069, 2019. [DOI](https://doi.org/10.1007/s11012-019-00992-7)
+- **P. Wolszczak, P. Lonkwic, A. Cunha Jr, G. Litak, and S. Molski**, *Robust optimization and uncertainty quantification in the nonlinear mechanics of an elevator brake system*, Meccanica, 54, pp. 1057-1069, 2019. <a href="https://doi.org/10.1007/s11012-019-00992-7" target="_blank">DOI</a>
 
 ### Features
 - Robust optimization for elevator brake systems
