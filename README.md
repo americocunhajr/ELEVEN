@@ -10,7 +10,7 @@
 - [Authors](#authors)
 - [Citing ELEVEN](#citing-eleven)
 - [License](#license)
-- [Institutional Support](#institutional-support)
+- [Institutional support](#institutional-support)
 - [Funding](#funding)
 
 ### Overview
