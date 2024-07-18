@@ -2,6 +2,10 @@
 
 **ELEVEN: Elevator Brake Optimization and UQ** is a robust Matlab tool designed for the optimization and uncertainty quantification (UQ) of an elevator brake system. Developed with an educational approach, ELEVEN is intuitive and user-friendly, making it accessible for both researchers and engineers in the field of mechanical engineering.
 
+<p align="center">
+<img src="logo/BrakeSystem.png" width="50%">
+</p>
+
 ### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
