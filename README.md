@@ -80,8 +80,8 @@ If you use **ELEVEN** in your research, please cite the following publication:
 
 ### Institutional support
 
-<img src="logo/logo_pollub_color.png" width="11%"> &nbsp; &nbsp; <img src="logo/logo_uerj_color.jpeg" width="10%"> &nbsp; &nbsp; <img src="logo/logo_agh_color.png" width="06%">
+<img src="logo/logo_pollub_color.png" width="11%"> &nbsp; &nbsp; <img src="logo/logo_uerj.png" width="13%"> &nbsp; &nbsp; <img src="logo/logo_agh_color.png" width="06%">
 
 ### Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+<img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
